@@ -153,3 +153,17 @@ ion-icon {
 .gallery img:hover {
     transform: scale(1.05);
 }
+
+.camera {
+    height:50px;
+    width: 50px;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #eca84c;
+}
+
+.camera ion-icon {
+    color: #fbf9ee;
+}
